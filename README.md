@@ -14,8 +14,7 @@ Orders Dataset: Captures comprehensive order information, including order IDs, t
 Products Dataset: Details available products, including names, descriptions, and categories.
 Sellers Dataset: Provides insights into sellers partnered with ShopNest, including performance metrics.
 Product Categories Dataset: Categorizes products, facilitating analysis based on product types.
-Dashboard Insights
-
+# Dashboard Insights
 Top Categories by Total Sales: Identifies top-selling product categories based on total sales.
 Delayed Orders Analysis: Analyzes the number of delayed orders in each category, with cross-report drill-through.
 Monthly Comparison of Delayed vs. On-Time Orders: Compares delayed and on-time orders on a monthly basis.
