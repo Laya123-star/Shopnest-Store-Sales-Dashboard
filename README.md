@@ -1,8 +1,8 @@
 # Shopnest-Store-Sales-Dashboard
-Project Overview
+# Project Overview
 This repository showcases a comprehensive analysis of sales data for ShopNest, a leading department store in the e-commerce market in Portugal. ShopNest acts as a vital bridge, connecting small businesses from diverse regions to online sales channels. In today’s fast-paced business landscape, data analytics is essential for improving decision-making and operational efficiency. The objective of this project is to analyze ShopNest’s operations using data analytics to uncover insights that can drive business growth and optimization.
 
-Dataset Description
+# Dataset Description
 The analysis utilizes nine key datasets, each providing unique insights:
 
 Customers Dataset: Contains demographic and purchasing information about ShopNest customers.
